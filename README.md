@@ -1,5 +1,9 @@
 ### Hi I'm Chris :wave:
-I'm an aspiring Full-Stack Developer.
+I'm a Full-Stack Web Developer.  I thrive on the exciting challenges that come with building robust web solutions.
+
+My preferred tech stack includes Next.js/React, TypeScript, Tailwind CSS, Auth0, MySQL, MongoDB, Sanity CMS, and Vercel.  
+
+Take a moment to browse through [my projects](https://www.chrisnowicki.io) and let's connect to bring your ideas to life.  Together, we can craft exceptional digital experiences that make a real impact.
 
 #### **CURRENTLY:**
 [Coding Dojo](https://www.codingdojo.com) 👨‍🎓 graduate as of 12/2/2022  🙌
